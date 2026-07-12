@@ -1,8 +1,8 @@
-backend: python 
-backend framework: flask
-core solver: CP-SAT solver
-database: MySQL
-frontend: HTML, CSS and Javascript
+- backend: python 
+- backend framework: flask
+- core solver: CP-SAT solver
+- database: MySQL
+- frontend: HTML, CSS and Javascript
 
 Für jeden Mitarbeiter werden folgende Felder in Ihrer Datenbank benötigt:
 
