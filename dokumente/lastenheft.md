@@ -33,10 +33,10 @@
 
 ## 4. Aktuelle Probleme (Ist-Schwächen)
 
-- **Externe Job-Konflikte:** Die Verfügbarkeit der Teilzeit- und Minijob-Kräfte ändert sich wöchentlich, weil deren anderer Arbeitgeber spontan umplant. Der Filialleiter kennt diese externen Zeiten nicht und erstellt den Dienstplan "ins Blaue" – es kommt ständig zu Überschneidungen und kurzfristigen Ausfällen.
+- **Externe Job-Konflikte:** Die Verfügbarkeit der Teilzeit- und Minijob-Kräfte ändert sich wöchentlich, weil deren anderer Arbeitgeber spontan umplant. Der Filialleiter kennt diese externen Zeiten nicht und erstellt den Dienstplan "ins Blaue", es kommt ständig zu Überschneidungen und kurzfristigen Ausfällen.
 
-- **Chaotische Planverteilung:** Der fertige Plan wird per WhatsApp versendet – aber **jeder Mitarbeiter einzeln** und an **völlig zufälligen Wochentagen** (mal Dienstag, mal Donnerstagabend). Die Mitarbeiter wissen nie, wann sie mit dem Plan rechnen können, und übersehen oft ihre Schicht.
+- **Chaotische Planverteilung:** Der fertige Plan wird per WhatsApp versendet, aber **jeder Mitarbeiter einzeln** und an **völlig zufälligen Wochentagen** (mal Dienstag, mal Donnerstagabend). Die Mitarbeiter wissen nie, wann sie mit dem Plan rechnen können, und übersehen oft ihre Schicht.
 
 - **Keine Urlaubsübersicht:** Urlaubsanträge gehen per Zettel oder Sprachnachricht ein. Der Filialleiter vergisst sie oder genehmigt doppelte Anträge für denselben Tag.
 
-- **Dauerbelastung der Gleichen:** Weil der Leiter keinen Überblick über freie Kapazitäten hat, fragt er immer die gleichen zwei zuverlässigen Vollzeitkräfte für Samstagsschichten – Überlastung und Unzufriedenheit steigen.
+- **Dauerbelastung der Gleichen:** Weil der Leiter keinen Überblick über freie Kapazitäten hat, fragt er immer die gleichen zwei zuverlässigen Vollzeitkräfte für Samstagsschichten, Überlastung und Unzufriedenheit steigen.
