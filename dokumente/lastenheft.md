@@ -31,7 +31,7 @@
 
 ---
 
-## 4. Aktuelle Probleme (Ist-Schwächen)
+## 4. Aktuelle Probleme (Ist Schwächen)
 
 - **Externe Job-Konflikte:** Die Verfügbarkeit der Teilzeit- und Minijob-Kräfte ändert sich wöchentlich, weil deren anderer Arbeitgeber spontan umplant. Der Filialleiter kennt diese externen Zeiten nicht und erstellt den Dienstplan "ins Blaue", es kommt ständig zu Überschneidungen und kurzfristigen Ausfällen.
 
